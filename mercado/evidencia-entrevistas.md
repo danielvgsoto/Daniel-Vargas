@@ -2,9 +2,10 @@
 
 Una entrada por entrevista, con los hallazgos que cambian el producto, el precio o el canal. Las del piloto se agregan aquí.
 
-## 1. Dispatcher con agencia y academia (demo, 29-sep-2026)
+## 1. Jose — dispatcher con agencia y academia (demo, 29-sep-2026)
 
 Perfil:
+- Nombre: Jose. Reunión "Trucky APP" en Read.ai/Tactiq, ~49 min.
 - Opera con equipo propio: dispatcher + asistente.
 - Forma a otros dispatchers en su comunidad.
 - Construye su propio TMS para esa comunidad.
