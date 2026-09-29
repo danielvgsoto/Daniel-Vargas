@@ -29,3 +29,13 @@ Entregables limpios y finales, en español. En inglés nativo cuando son para el
 ## Contexto técnico
 - App en Base44, ID `69e8214a181314e517a283d5`.
 - Datos comerciales en HubSpot. Los IDs de resultados de llamada y de owners están en `estado-actual.md`.
+
+## Agentes especializados
+
+Para trabajar una problemática concreta (mercado, ventas, reuniones, go-to-market), usa el skill `/orquestador` con la problemática como argumento. Decide solo qué agentes hacen falta y los invoca:
+- `reuniones` (Read.ai + Tactiq → `mercado/evidencia-entrevistas.md`)
+- `ventas` (HubSpot → cifras en `estado-actual.md` y `mercado/mercado-objetivo.md`)
+- `mercado` (segmentación y target persona → `estado-actual.md` y `mercado/mercado-objetivo.md`)
+- `gtm` (precio, piloto, canal, competencia → `estado-actual.md`)
+
+Definiciones en `.claude/agents/`, orquestador en `.claude/skills/orquestador/SKILL.md`.
