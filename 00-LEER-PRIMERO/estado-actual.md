@@ -45,6 +45,7 @@ Datos del mercado:
 - Mercado geográfico prioritario: Texas, con 21.356 carriers activos con MC y 2 a 10 camiones.
 - Evidencia del segmento 1: una entrevista a fondo (n=1). Todo lo demás sobre el dispatcher es hipótesis.
 - Tamaño del segmento 1: PENDIENTE.
+- Target persona del segmento 1 (Jose, agencia + academia + TMS propio) y matiz de antigüedad dentro del segmento (dispatcher junior vs. establecido): `mercado/mercado-objetivo.md`. No cambia la prioridad ni el razonamiento de arriba.
 
 Detalle: `mercado/mercado-objetivo.md` y `mercado/evidencia-entrevistas.md`.
 
