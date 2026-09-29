@@ -147,11 +147,10 @@ Resultados de llamada:
 - Decisión del 23-sep-2026 (reunión interna): priorizar contenido orgánico sobre pago y construir una landing page para convertir el tráfico. Base: Instagram +110 % en vistas y Facebook +31 % en alcance (ventana de 28 días); 2 leads orgánicos, ambos dispatchers, preguntaron "qué es Trucky" y no preguntaron precio (n=2, no es evidencia de disposición de pago).
 
 **Competencia:**
-- **Numeo:** su IA busca y agenda cargas, y la comunidad lo percibe como un reemplazo del dispatcher. La IA solo está en planes de 10+ camiones y no cubre drayage. El dato "91,5 % de carriers ≤10 camiones" está PENDIENTE de verificar.
-- **LoadHunter:** promete verificador sin mostrarlo funcionando. Contactó al dispatcher referente, quien ve a Trucky más completo.
+- **Numeo (Numeo AI):** su IA busca y agenda cargas, y la comunidad lo percibe como un reemplazo del dispatcher. La IA solo está en planes de 10+ camiones y no cubre drayage. El dato "91,5 % de carriers ≤10 camiones" está PENDIENTE de verificar. Lo mencionado como "Anumeo" en la reunión del 23-sep-2026 era este mismo competidor (Numeo AI) — no es una plataforma distinta.
+- **LoadHunter:** promete verificador sin mostrarlo funcionando. Contactó al dispatcher referente, quien ve a Trucky más completo. Es la plataforma con ~5.000 dispatches promovida por el influencer Bobby ("Load Hunters") mencionada en la reunión del 23-sep-2026 — mismo competidor, no uno adicional.
 - **Plataforma de Tyler:** drayage y drivers, profit por carga, asistente de mercado y agente "Ruby" que organiza documentos.
 - **TMS propios de academias:** el dispatcher referente construye el suyo. Es canal y competidor a la vez.
-- Mencionado en reunión interna del 23-sep-2026, sin verificar: "Anumeo" (posible error de transcripción de "otro Numeo"; no confirmar como competidor real hasta verificar el nombre) y una plataforma con ~5.000 dispatches, promovida por un influencer llamado Bobby ("Load Hunters"). No está claro si esta última es LoadHunter (mismo competidor, dato nuevo de que la promueve un influencer) o un competidor adicional. PENDIENTE resolver con el equipo comercial.
 
 ## 7. Equipo
 
@@ -192,9 +191,8 @@ Resultados de llamada:
 - Estado de los riesgos técnicos del informe de julio.
 - Fecha real de perfiles y de beta.
 - Modelo de IA en producción y costo por consulta.
-- Posicionamiento del producto para el pitch (23-sep-2026): en la reunión interna quedó abierto si Trucky se presenta como "solución documental" o como "plataforma integral de optimización logística"; Alexander pidió definir el MVP exacto. La sección 3 ya orienta la respuesta (el verificador puede ampliarse sin que Trucky se vuelva solo un gestor documental, y lo decide el uso en el piloto), pero no hay un cierre formal de qué mensaje de posicionamiento usar en el pitch a socios/inversión.
-- Verificar competencia mencionada el 23-sep-2026: si "Anumeo" es un competidor real o un error de transcripción, y si la plataforma de ~5.000 dispatches con el influencer Bobby ("Load Hunters") es LoadHunter o un competidor distinto.
-- Roadmap técnico comercial (23-sep-2026): DAT con acceso a API privada confirmado, Truckstop con API pública disponible, migración de ClickUp a Jira con 47 tickets pendientes (4 en desarrollo, 13 en revisión/pruebas). No hay un archivo del proyecto donde este seguimiento de roadmap tenga lugar (no es arquitectura de IA ni decisión de mercado); PENDIENTE decidir dónde documentarlo o si vive solo en Jira.
+- Posicionamiento del producto para el pitch (23-sep-2026): en la reunión interna quedó abierto si Trucky se presenta como "solución documental" o como "plataforma integral de optimización logística"; Alexander pidió definir el MVP exacto. La sección 3 ya orienta la respuesta (el verificador puede ampliarse sin que Trucky se vuelva solo un gestor documental, y lo decide el uso en el piloto), pero no hay un cierre formal de qué mensaje de posicionamiento usar en el pitch a socios/inversión. **En desarrollo activo.**
+- Roadmap técnico comercial (23-sep-2026): DAT con acceso a API privada confirmado, Truckstop con API pública disponible, 47 tickets pendientes (4 en desarrollo, 13 en revisión/pruebas). Se gestiona en Jira, un respaldo de tickets externo a este repo — no requiere archivo propio aquí; este documento no lo referencia salvo cuando una decisión de producto se derive de él.
 
 ## 11. Mapa del proyecto
 
