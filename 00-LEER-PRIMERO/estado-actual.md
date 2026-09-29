@@ -152,6 +152,17 @@ Resultados de llamada:
 - **Plataforma de Tyler:** drayage y drivers, profit por carga, asistente de mercado y agente "Ruby" que organiza documentos.
 - **TMS propios de academias:** el dispatcher referente construye el suyo. Es canal y competidor a la vez.
 
+**Posicionamiento del producto para el pitch (decisión del 29-sep-2026, cierra el punto abierto en la reunión interna del 23-sep-2026):**
+- Trucky se presenta como **plataforma integral de TMS con IA** (verificador de rate confirmations + chat de mercado + calculadora de costo por milla), con el verificador como módulo de entrada/demo — no como solución documental aislada. El chat de mercado no se quita.
+- Evidencia que sostiene la decisión (parcial, no concluyente):
+  - Jose valida el verificador como el módulo de mayor interés dentro de su flujo, pero su bloqueante real para adoptar Trucky es estructural (perfiles multi-carrier), no de alcance documental; no pidió limitar Trucky a documentos.
+  - Su ancla de precio (~USD 30/mes) es contra un TMS completo que ya paga (USD 24/mes), no contra una herramienta documental aislada.
+  - LoadHunter promete un verificador sin mostrarlo funcionando; el mismo dispatcher referente, al ser contactado por LoadHunter, ve a Trucky "más completo" — evidencia directa (aunque n=1, mismo referente que el resto de la evidencia) de que una plataforma más completa se percibe mejor que una promesa documental aislada.
+  - Numeo no compite en el terreno documental: su diferenciador es la IA que busca y agenda cargas, percibida como reemplazo del dispatcher, disponible solo en planes de 10+ camiones.
+  - Ya orientaba esto la sección 3: el verificador puede ampliarse (invoices, BOL, impuestos) sin volver a Trucky solo un gestor documental.
+- **Confianza: parcial, no total.** Toda la evidencia de mercado disponible es n=1 (Jose) o n=1 indirecto sobre el mismo referente (comparación con LoadHunter); no hay encuesta, entrevistas múltiples ni tasa de conversión que compare directamente demanda por "solo documental" vs. "TMS integral". El piloto (sección 5) es el mecanismo para confirmarlo con más de un dispatcher: mide módulo más usado (chat o verificador) y disposición de pago al cierre.
+- **Mensaje central para el pitch:** "Trucky es el TMS con IA para el dispatcher que maneja varias flotas a la vez: el verificador de rate confirmations es la puerta de entrada que cambia la conversación en la demo, pero la plataforma completa —verificador, chat de mercado y costo por milla, sobre una estructura multi-carrier— es el diferencial frente a competidores que solo prometen documentos (LoadHunter) o solo automatizan la búsqueda de cargas (Numeo)."
+
 ## 7. Equipo
 
 | Rol | Persona |
@@ -191,7 +202,7 @@ Resultados de llamada:
 - Estado de los riesgos técnicos del informe de julio.
 - Fecha real de perfiles y de beta.
 - Modelo de IA en producción y costo por consulta.
-- Posicionamiento del producto para el pitch (23-sep-2026): en la reunión interna quedó abierto si Trucky se presenta como "solución documental" o como "plataforma integral de optimización logística"; Alexander pidió definir el MVP exacto. La sección 3 ya orienta la respuesta (el verificador puede ampliarse sin que Trucky se vuelva solo un gestor documental, y lo decide el uso en el piloto), pero no hay un cierre formal de qué mensaje de posicionamiento usar en el pitch a socios/inversión. **En desarrollo activo.**
+- Posicionamiento del producto para el pitch (23-sep-2026): **resuelto el 29-sep-2026** → decisión, evidencia y mensaje de pitch en la sección 6 ("Posicionamiento del producto para el pitch"). Se define como plataforma integral de TMS con IA, verificador como puerta de entrada. Confianza parcial: la evidencia es n=1 (Jose) más una lectura indirecta sobre el mismo referente (LoadHunter). Queda PENDIENTE confirmar con el piloto (módulo más usado, disposición de pago, con más de un dispatcher) si la plataforma integral sostiene mejor la conversión que el verificador aislado; si el piloto lo contradice, se revisa esta decisión.
 - Roadmap técnico comercial (23-sep-2026): DAT con acceso a API privada confirmado, Truckstop con API pública disponible, 47 tickets pendientes (4 en desarrollo, 13 en revisión/pruebas). Se gestiona en Jira, un respaldo de tickets externo a este repo — no requiere archivo propio aquí; este documento no lo referencia salvo cuando una decisión de producto se derive de él.
 
 ## 11. Mapa del proyecto
